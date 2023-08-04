@@ -1,3 +1,11 @@
 export default function Footer() {
-    return
+    return (
+        <>
+            <div className="panel-footer">
+                <ul>
+                    <li><a href="#">About</a></li>
+                </ul>
+        </div>
+        </>
+    )
 }
